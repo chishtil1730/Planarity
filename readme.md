@@ -18,7 +18,7 @@ Existing browser DevTools expose *computed styles*, but they lack:
 * A global stacking overview
 * Source-level traceability
 * Safe refactoring workflows
-* Change history and intent
+* Change history and intent with ease
 
 ---
 
