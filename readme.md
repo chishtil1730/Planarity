@@ -16,7 +16,7 @@ In modern web applications, `z-index` often becomes a silent source of complexit
 Existing browser DevTools expose *computed styles*, but they lack:
 
 * A global stacking overview
-* Source-level traceability
+* Source-level traceability and reliability 
 * Safe refactoring workflows
 * Change history and intent with ease
 
