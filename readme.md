@@ -26,7 +26,7 @@ Existing browser DevTools expose *computed styles*, but they lack:
 
 | Feature | Description |
 |-------|-------------|
-| Runtime Stacking Inspector | Detects actual stacking contexts and computed z-index values directly from the browser |
+| Runtime Stack Viewer  | Detects actual stacking contexts and computed z-index values directly from the browser |
 | 3D Layer Visualization | Displays stacking contexts and elements along an X-axis to reveal depth and overlap |
 | Cross-Framework Support | Works across HTML, CSS, React, Next.js, Tailwind, and CSS-in-JS via resolvers |
 | Source Mapping | Maps rendered elements back to their exact source files and definitions |
