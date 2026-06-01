@@ -40,7 +40,7 @@ Existing browser DevTools expose *computed styles*, but they lack:
 
 The 3D pan view represents the browser’s stacking model in spatial form.
 
-- The **X-axis** represents stacking depth (z-order)
+- The **X-axis** represents stacking depth (z-index type)
 - Each **stacking context** is rendered as a separate plane
 - Elements within a context appear as nodes positioned relative to their parent
 - Panning along the X-axis reveals overlap and render order visually
