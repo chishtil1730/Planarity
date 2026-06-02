@@ -106,7 +106,7 @@ This visualization explains *why* elements overlap the way they do, not just *th
 
 ### 🧊 Dual-Mode Visualization
 * **2D Isometric Mode**: Uses CSS3 transforms to render the page as a stack of "tilted cards" for quick logical debugging.
-* **3D WebGL Mode**: A full-scale Three.js environment that "explodes" the DOM into a Cartesian space, perfect for deep architectural audits.
+* **3D WebGL Mode**: A full-scale Three.js environment that "explodes" the DOM into a Cartesian space, perfect for deep architectural audits. Allows users to navigate through the issue easily if it is something that's easily visible when imagined
 
 
 
