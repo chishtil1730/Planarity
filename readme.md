@@ -44,6 +44,7 @@ The 3D pan view represents the browser’s stacking model in spatial form.
 - Each **stacking context** is rendered as a separate plane
 - Elements within a context appear as nodes positioned relative to their parent
 - Panning along the X-axis reveals overlap and render order visually
+- Complete 3d view of how each layer is aligned
 
 Interactions:
 - Hovering an element highlights it in the live page
