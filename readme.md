@@ -1,4 +1,4 @@
-# Planarity - CSS Debugger
+## Planarity - CSS Debugger
 
 ## Cross-Framework Z-Index Intelligence & Visualization
 
@@ -127,8 +127,8 @@ EOF
 
 It combines:
 
-1. Runtime inspection of stacking contexts (browser truth)
-2. Static analysis of the codebase (source truth)
+1. Runtime inspection of stacking contexts (browser)
+2. Static analysis of the codebase (source)
 3. Git-style staging and committing of z-index changes
 
 The goal is to make layering behavior **visible, explainable, and controllable** across frameworks.
