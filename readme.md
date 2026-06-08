@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Problem Statement
+## 1. Problem To Solve
 
 In modern web applications, `z-index` often becomes a silent source of complexity and bugs:
 
