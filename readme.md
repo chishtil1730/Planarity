@@ -1,4 +1,4 @@
-## Planarity - CSS Debugger
+## Planarity - CSS Debugger Tool
 
 ## Cross-Framework Z-Index Intelligence & Visualization
 
