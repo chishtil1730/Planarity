@@ -9,7 +9,7 @@
 In modern web applications, `z-index` often becomes a silent source of complexity :
 
 * Arbitrary values like `z-index: 9999`
-* Implicit stacking contexts created by `position`, `transform`, `opacity`, `filter`, etc.
+* Implicit stacking contexts including `position`, `transform`, `opacity`, `filter`, etc.
 * Framework abstractions (React, Tailwind, CSS-in-JS) hiding actual browser behavior
 * Debugging that relies on trial-and-error rather than system understanding
 
